@@ -1,0 +1,21 @@
+{
+  "title": "FullFeaturedDemo Material Demo",
+  "name": "nasty-mui-datagridpro-sample",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "See https://github.com/react-declarative/react-declarative",
+  "dependencies": {
+    "@emotion/react": "11.9.0",
+    "@emotion/styled": "11.8.1",
+    "@mui/icons-material": "5.8.3",
+    "@mui/material": "5.8.7",
+    "@mui/styles": "5.8.7",
+    "@mui/x-data-grid-generator": "5.12.3",
+    "@mui/x-data-grid-pro": "5.12.3",
+    "prop-types": "15.8.0",
+    "react": "18.3.0-next-e225fa43a-20220711",
+    "react-dom": "18.3.0-next-e225fa43a-20220711"
+  },
+  "keywords": []
+}
